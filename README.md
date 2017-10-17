@@ -1,4 +1,4 @@
-# capstone_report
+# Capstone Report
 ### Stock Market S&P 500 price prediction
 
 
